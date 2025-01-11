@@ -85,9 +85,9 @@
 - Union = 한 테이블의 행을 다른 테이블에 추가할 수 있는 방식 (* 데이터셋의 유형과 필드 수가 같아야 한다.)
 - Blending =  조인과 비슷하게 데이터셋을 연결하지만 다른 소스에 있는 데이터셋을 결합할 수 있다. ** 데이터를 집계한후 결합한다.
 
-** ETL - 데이터를 추출, 정제하는 프로세스를 의미한다. 
+**ETL** - 데이터를 추출, 정제하는 프로세스를 의미한다. 
 
-** KDD 분석 방법론 
+**KDD 분석 방법론**
 - 데이터 선정 -> 데이터 전처리 -> 데이터 변환 -> 데이터 마이닝 -> 평가
 - 데이터의 패턴을 분석하기 위한 프로세스.
 
@@ -122,3 +122,11 @@
 - Univariate = Data being analyzed with only one variable
 - Bivariate = analysis of two variables to find causes, relationships (두개의 변수간의 상관관계 분석)
 - Multivariate = analysis of three or more variables to understand relationship
+
+-------
+
+### Twitter Sentiment Analysis Program
+
+- Whether users are talking positively or negatively about the Notion
+- Count the numbers of Tweet tagged as negative, positive and neutral
+- Create the data visualization of each sentiments in relative terms 

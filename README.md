@@ -112,3 +112,9 @@
 
 - 정형 데이터는 데이터 테이블을 만드는데 적합한 형태의 데이터.
 - 비정형 데이터는 데이터 테이블을 만드는데 적합하지 않다.
+
+### Descriptive vs Predictive vs Prescriptive 
+- Descriptive = insights to the answer (무엇이 일어났는지)
+- Predictive = understands future to answer (무엇이 일어날지)
+- Prescriptive = various course to actions (무엇을 해야 하는지)
+  

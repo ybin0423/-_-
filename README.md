@@ -118,3 +118,7 @@
 - Predictive = understands future to answer (무엇이 일어날지)
 - Prescriptive = various course to actions (무엇을 해야 하는지)
   
+### Univariate vs Bivariate vs Multivariate
+- Univariate = Data being analyzed with only one variable
+- Bivariate = analysis of two variables to find causes, relationships (두개의 변수간의 상관관계 분석)
+- Multivariate = analysis of three or more variables to understand relationship

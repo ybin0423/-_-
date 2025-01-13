@@ -90,14 +90,17 @@
 **ETL** - 데이터를 추출, 정제하는 프로세스를 의미한다. 
 
 **KDD 분석 방법론**
+
 - 데이터 선정 -> 데이터 전처리 -> 데이터 변환 -> 데이터 마이닝 -> 평가
 - 데이터의 패턴을 분석하기 위한 프로세스.
 
 ### 정확도 vs 정밀도
+
 - 정확도 = 분석모델이 실제 값과 차이가 적은 것을 의미한다.
 - 정밀도 = 분석모델이 여러번 반복해도 편차가 적은 것을 의미한다.
 
 ### Quantitative VS Qualitative (정상적 분석 vs 정량적 분석)
+
 -  질적 분석 = 수학적 패턴과 통계를 통해 가설을 기정사실화 한다.
 - 양적 분석 = 대화를 통해 이해하고 결과를 이끌어낸다. 
 
@@ -116,11 +119,13 @@
 - 비정형 데이터는 데이터 테이블을 만드는데 적합하지 않다.
 
 ### Descriptive vs Predictive vs Prescriptive 
+
 - Descriptive = insights to the answer (무엇이 일어났는지)
 - Predictive = understands future to answer (무엇이 일어날지)
 - Prescriptive = various course to actions (무엇을 해야 하는지)
   
 ### Univariate vs Bivariate vs Multivariate
+
 - Univariate = Data being analyzed with only one variable
 - Bivariate = analysis of two variables to find causes, relationships (두개의 변수간의 상관관계 분석)
 - Multivariate = analysis of three or more variables to understand relationship
